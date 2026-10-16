@@ -29,4 +29,4 @@ uniquement sur Windows et Wazuh pour leur permettre de télécharger des outils
 et mises à jour.
 
 ## Schéma
-![Schéma réseau](lab-architecture.png)S
+![Schéma réseau](lab-architecture.png)
